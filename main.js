@@ -19,3 +19,4 @@ alert('admin = ' + admin);
 name = "Petr";
 alert('name = ' + name);
 alert('admin = ' + admin);
+// updated file
